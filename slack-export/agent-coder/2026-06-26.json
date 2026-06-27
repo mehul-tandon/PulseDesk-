@@ -1,0 +1,59 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0BDPB98LMS",
+        "text": "<@U0BDPB98LMS> has joined the channel",
+        "type": "message",
+        "ts": "1782537694.526289"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0BEE1DSKNU",
+        "text": "<@U0BEE1DSKNU> has joined the channel",
+        "inviter": "U0BDPB98LMS",
+        "type": "message",
+        "ts": "1782538193.545609"
+    },
+    {
+        "user": "U0BDPB98LMS",
+        "type": "message",
+        "ts": "1782543027.633219",
+        "client_msg_id": "19216849-b3f8-472e-afc3-104e30e5d04f",
+        "text": "<@U0BEE1DSKNU> Hi Openclaw Can you see this message ??",
+        "team": "T0BEE0NAERW",
+        "user_team": "T0BEE0NAERW",
+        "source_team": "T0BEE0NAERW",
+        "user_profile": {
+            "avatar_hash": "9a79186bd8b0",
+            "image_72": "https:\/\/avatars.slack-edge.com\/2026-06-26\/11459651165302_9a79186bd8b073efaedd_72.png",
+            "first_name": "Mehul",
+            "real_name": "Mehul",
+            "display_name": "",
+            "team": "T0BEE0NAERW",
+            "name": "mehul.tandon2000",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OSQ5n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0BEE1DSKNU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Hi Openclaw Can you see this message ??"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

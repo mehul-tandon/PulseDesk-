@@ -1,13 +1,12 @@
-# Sprint 01 -- <goal in one line>
+# Sprint 01 -- Scaffold PulseDesk MVP Backend
 
-Goal: ...
-Models: Hermes=<...>, OpenClaw=<...>
+Goal: Build the initial scaffold for a customer support SaaS (PulseDesk) with a Laravel 11 backend and MySQL.
+Models: Hermes=z-ai/glm-5.1, OpenClaw=z-ai/glm-5.1
 
 ## Issues
-- [ ] #1 ...
-- [ ] #2 ...
+- [x] #1 PD-1: Laravel 11 Scaffold + MySQL Config
 
 ## Outcome
-- Shipped: ...
-- Slipped / moved to next sprint: ...
-- PRs: #... (merged by me)
+- Shipped: Initial Laravel 11 app scaffolded successfully in `/pulsedesk` with `.env` configured.
+- Slipped / moved to next sprint: None.
+- PRs: `sprint-1/pd-1-scaffold` merged to main.
