@@ -1,0 +1,8 @@
+[
+{"user_id":"U0BDPB98LMS","user_name":"mehul.tandon2000","date":1782548215,"change_type":"expanded","app_type":"Openclaw-bot","app_id":"A0BDMVAPZ97"},
+{"user_id":"U0BDPB98LMS","user_name":"mehul.tandon2000","date":1782548073,"change_type":"added","app_type":"Openclaw-bot","app_id":"A0BDMVAPZ97"},
+{"user_id":0,"user_name":"slack","date":1782547663,"change_type":"app_collaborator_added","app_type":"Openclaw-bot","app_id":"A0BDMVAPZ97"},
+{"user_id":"U0BDPB98LMS","user_name":"mehul.tandon2000","date":1782544861,"change_type":"expanded","app_type":"Hermes-bot","app_id":"A0BDDC5GE2F"},
+{"user_id":"U0BDPB98LMS","user_name":"mehul.tandon2000","date":1782538152,"change_type":"added","app_type":"Hermes-bot","app_id":"A0BDDC5GE2F"},
+{"user_id":0,"user_name":"slack","date":1782537916,"change_type":"app_collaborator_added","app_type":"Hermes-bot","app_id":"A0BDDC5GE2F"}
+]

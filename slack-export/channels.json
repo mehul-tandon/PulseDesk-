@@ -1,0 +1,181 @@
+[
+{
+    "id": "C0BDPB9G8P6",
+    "name": "social",
+    "created": 1782537533,
+    "creator": "U0BDPB98LMS",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0BDPB98LMS"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "Other channels are for work. This one’s just for fun. Get to know your teammates and show your lighter side. 🎈",
+        "creator": "U0BDPB98LMS",
+        "last_set": 1782537533
+    }
+},
+{
+    "id": "C0BDPBFRX6G",
+    "name": "agent-coder",
+    "created": 1782537694,
+    "creator": "U0BDPB98LMS",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0BD4LJGY23",
+        "U0BDPB98LMS",
+        "U0BEE1DSKNU"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C0BDGA8PWE9",
+    "name": "new-channel",
+    "created": 1782537567,
+    "creator": "U0BDPB98LMS",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0BDPB98LMS"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "This channel is for everything #new-channel. Hold meetings, share docs, and make decisions together with your team.",
+        "creator": "U0BDPB98LMS",
+        "last_set": 1782537567
+    }
+},
+{
+    "id": "C0BDHK74ZP0",
+    "name": "all-forge",
+    "created": 1782537532,
+    "creator": "U0BDPB98LMS",
+    "is_archived": false,
+    "is_general": true,
+    "members": [
+        "U0BDPB98LMS",
+        "U0BEE1DSKNU"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "Share announcements and updates about company news, upcoming events, or teammates who deserve some kudos. ⭐",
+        "creator": "U0BDPB98LMS",
+        "last_set": 1782537532
+    }
+},
+{
+    "id": "C0BDHKH43U6",
+    "name": "human-review",
+    "created": 1782537791,
+    "creator": "U0BDPB98LMS",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0BD4LJGY23",
+        "U0BDPB98LMS",
+        "U0BEE1DSKNU"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C0BDKN2BKFU",
+    "name": "ci-cd",
+    "created": 1782537775,
+    "creator": "U0BDPB98LMS",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0BD4LJGY23",
+        "U0BDPB98LMS",
+        "U0BEE1DSKNU"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C0BDDBWFQG3",
+    "name": "sprint-main",
+    "created": 1782537675,
+    "creator": "U0BDPB98LMS",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0BD4LJGY23",
+        "U0BDPB98LMS",
+        "U0BEE1DSKNU"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+},
+{
+    "id": "C0BDDBZ4DD1",
+    "name": "agent-log",
+    "created": 1782537747,
+    "creator": "U0BDPB98LMS",
+    "is_archived": false,
+    "is_general": false,
+    "members": [
+        "U0BD4LJGY23",
+        "U0BDPB98LMS",
+        "U0BEE1DSKNU"
+    ],
+    "topic": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    },
+    "purpose": {
+        "value": "",
+        "creator": "",
+        "last_set": 0
+    }
+}
+]
