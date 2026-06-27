@@ -12,7 +12,7 @@ Laravel 11 . PHP 8.2 . MySQL 8 . Laravel Sanctum . React 19 . Vite . Tailwind
 
 ## How to run  (EXACT -- a judge will run these from a fresh clone)
 ### Backend (Laravel + MySQL)
-    cd backend
+    cd pulsedesk
     cp .env.example .env          # set DB_* for your MySQL
     composer install
     php artisan key:generate
