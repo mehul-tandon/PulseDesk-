@@ -19,10 +19,8 @@ jobs:
       - uses: shivammathur/setup-php@v2
         with: { php-version: '8.2' }
       - name: Install
-        working-directory: backend
         run: composer install --no-interaction --prefer-dist
       - name: Configure
-        working-directory: backend
         run: |
           cp .env.example .env
           php artisan key:generate
@@ -31,7 +29,6 @@ jobs:
           sed -i 's/^DB_USERNAME=.*/DB_USERNAME=root/' .env
           sed -i 's/^DB_PASSWORD=.*/DB_PASSWORD=root/' .env
       - name: Migrate & test
-        working-directory: backend
         run: |
           php artisan migrate --force
           php artisan test
