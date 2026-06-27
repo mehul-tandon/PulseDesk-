@@ -13,7 +13,11 @@ Route::middleware('auth:sanctum')->group(function () {
     Route::get('/user', function (Request $request) {
         return $request->user();
     });
+    Route::post('/logout', [AuthController::class, 'logout']);
 
-    Route::apiResource('tickets', TicketController::class)->except(['destroy']);
+    // Tickets
+    Route::apiResource('tickets', TicketController::class)->only(['index', 'show', 'store', 'update']);
+
+    // Comments (nested under tickets)
     Route::post('/tickets/{ticket}/comments', [CommentController::class, 'store']);
 });
